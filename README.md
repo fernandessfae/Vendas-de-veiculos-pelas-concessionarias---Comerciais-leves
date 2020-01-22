@@ -80,3 +80,7 @@ H1 = As observações da série possuem tendência monotônica no tempo. (Há te
 
 ![Figure_1](https://user-images.githubusercontent.com/48027825/72924734-311e1100-3d30-11ea-92b1-2d18c9a2d70c.png)
 ![Figure_2](https://user-images.githubusercontent.com/48027825/72924735-311e1100-3d30-11ea-81e1-468d55584f2c.png)
+
+**2) Redes Neurais (MLP com KERAS)**
+
+![Figure_1](https://user-images.githubusercontent.com/48027825/72929894-801c7400-3d39-11ea-98c8-8ae62c0a0ed3.png)
