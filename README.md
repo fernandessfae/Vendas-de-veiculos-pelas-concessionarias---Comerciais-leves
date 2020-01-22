@@ -46,6 +46,23 @@ Valores críticos (1%)                                                  0.739
 H0 = A série é estacionária. <br/>
 H1 = A série apresenta raiz unitária.
 
+- Teste de  confirmação de tendência
+
+**Teste de Mann-Kendall**
+
+Resultado do Teste Mann-Kendall<br/>
+Movimento Tendência     increasing<br/>
+Há Tendência?                 True<br/>
+Valor p                9.07964e-06<br/>
+Teste normalizado          4.43801<br/>
+Coeficiente Kendall        0.55489<br/>
+Mand-Kendall Score           35857<br/>
+Variância S            6.52752e+07<br/>
+Sen Slope                  79.4129
+
+H0 = As observações da série são independentes e identicamente distribuídas. (Não há tendência)<br/>
+H1 = As observações da série possuem tendência monotônica no tempo. (Há tendência)
+
 - Aqui estão a previsão da série temporal utilizando alguns métodos
 
 **1) Holt Winters**
