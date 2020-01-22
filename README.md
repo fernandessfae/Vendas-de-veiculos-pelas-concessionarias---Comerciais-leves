@@ -17,6 +17,10 @@ Link do dataset: http://dados.gov.br/dataset/7385-vendas-de-veiculos-pelas-conce
 
 ![Figure_1](https://user-images.githubusercontent.com/48027825/72922996-df27bc00-3d2c-11ea-8fea-93608a334ab1.png)
 
+**Gráfico da importância dos períodos para previsões futuras**
+
+![Figure_1](https://user-images.githubusercontent.com/48027825/72928353-9543d380-3d36-11ea-929f-5dd5ede4cc9c.png)
+
 - Testes de confirmação de estacionariedade
 
 **Dickey Fuller e KPSS**
