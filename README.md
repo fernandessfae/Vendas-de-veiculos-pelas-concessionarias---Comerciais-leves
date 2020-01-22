@@ -45,3 +45,17 @@ Valores críticos (1%)                                                  0.739
 
 H0 = A série é estacionária. <br/>
 H1 = A série apresenta raiz unitária.
+
+- Aqui estão a previsão da série temporal utilizando alguns métodos
+
+**1) Holt Winters**
+
+- Sem amortização da série temporal (Método aditivo)
+
+![Figure_1](https://user-images.githubusercontent.com/48027825/72924275-683ff280-3d2f-11ea-8539-ef102d511866.png)
+![Figure_2](https://user-images.githubusercontent.com/48027825/72924276-683ff280-3d2f-11ea-816b-f766502fb941.png)
+
+- Com amortização da série temporal (Método multiplicativo)
+
+![Figure_1](https://user-images.githubusercontent.com/48027825/72924734-311e1100-3d30-11ea-92b1-2d18c9a2d70c.png)
+![Figure_2](https://user-images.githubusercontent.com/48027825/72924735-311e1100-3d30-11ea-81e1-468d55584f2c.png)
