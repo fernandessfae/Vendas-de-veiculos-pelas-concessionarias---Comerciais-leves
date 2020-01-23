@@ -84,3 +84,10 @@ H1 = As observações da série possuem tendência monotônica no tempo. (Há te
 **2) Redes Neurais (MLP com KERAS)**
 
 ![Figure_1](https://user-images.githubusercontent.com/48027825/72929894-801c7400-3d39-11ea-98c8-8ae62c0a0ed3.png)
+
+**3) AUTO Arima**
+
+- Dados Originais (azul) x Dados Previsão (laranja)
+
+![Figure_1](https://user-images.githubusercontent.com/48027825/72951107-0fdb1600-3d6c-11ea-93ec-d995b4914a57.png)
+![Figure_2](https://user-images.githubusercontent.com/48027825/72951108-0fdb1600-3d6c-11ea-8b88-ebe8f07cc7b7.png)
