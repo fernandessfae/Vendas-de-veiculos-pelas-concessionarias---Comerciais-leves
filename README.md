@@ -91,3 +91,9 @@ H1 = As observações da série possuem tendência monotônica no tempo. (Há te
 
 ![Figure_1](https://user-images.githubusercontent.com/48027825/72951107-0fdb1600-3d6c-11ea-93ec-d995b4914a57.png)
 ![Figure_2](https://user-images.githubusercontent.com/48027825/72951108-0fdb1600-3d6c-11ea-8b88-ebe8f07cc7b7.png)
+
+**4) Rede Neurais (LSTM)**
+
+- Dados Originais (vermelho) x Dados Previsão (azul)
+
+![Figure_1](https://user-images.githubusercontent.com/48027825/73115345-7181b880-3f03-11ea-8413-38a49b1b2110.png)
